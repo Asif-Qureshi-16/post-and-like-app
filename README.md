@@ -48,7 +48,7 @@ This is a simple blog application built with Express.js, featuring user registra
     </ul>
 
 <h3>Registration Page:</h3>
-![Registration Page](https://raw.githubusercontent.com/user-attachments/assets/c2d425fa-56cd-4e75-bff8-af7477dcb542)
+<img src="[img_girl.jpg](https://raw.githubusercontent.com/user-attachments/assets/c2d425fa-56cd-4e75-bff8-af7477dcb542)" alt="Registration" width="500" height="600">
 
 <h3>Login Page:</h3>
 ![Login Page](https://raw.githubusercontent.com/user-attachments/assets/c30c60b8-fe7a-44d3-a088-60d186f6187c)
