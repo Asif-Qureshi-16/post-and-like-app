@@ -47,28 +47,17 @@ This is a simple blog application built with Express.js, featuring user registra
         <li><strong>JWT (JSON Web Token)</strong> - For token-based authentication</li>
     </ul>
 
-#Login Page
-![image](https://github.com/user-attachments/assets/40099ff3-4ef7-48da-9c14-d056e74fadba)
-
-#Singup Page
-![image](https://github.com/user-attachments/assets/cbc64727-4b75-4e14-b0d6-f0015ee4d223)
-
-#Add Product Page
-![image](https://github.com/user-attachments/assets/96fd07b3-2248-44e3-8fda-dd6d0e878912)
-
 <h3>Registration Page:</h3>
-![Registration Page](https://raw.githubusercontent.com/user-attachments/assets/c2d425fa-56cd-4e75-bff8-af7477dcb542)
+![image](https://github.com/user-attachments/assets/63470f7e-978f-4986-b04f-c9d81284ec49)
 
 <h3>Login Page:</h3>
-![Login Page](https://raw.githubusercontent.com/user-attachments/assets/c30c60b8-fe7a-44d3-a088-60d186f6187c)
+![image](https://github.com/user-attachments/assets/ed8b4dd7-a81c-49b1-a579-ccb93843d3ab)
 
 <h3>Profile Page:</h3>
-![Profile Page](https://raw.githubusercontent.com/user-attachments/assets/dc669761-68e8-4ffe-95dd-44472b0758e9)
-
+![image](https://github.com/user-attachments/assets/8d79de0a-68a4-4be4-b412-d875385e23e5)
 
 <h3>Edit Page:</h3>
-![Edit Page](https://raw.githubusercontent.com/user-attachments/assets/767184ce-07e3-4fca-8426-af40414730bf)
-
+![image](https://github.com/user-attachments/assets/2eae73c0-d101-4ac8-a16d-f963eb7e55f2)
 
 <h2>Installation</h2>
 <ol>
