@@ -50,16 +50,17 @@ This is a simple blog application built with Express.js, featuring user registra
 ## Screenshots
 
 ### Registration Page
-![Registration Page](https://raw.githubusercontent.com/user-attachments/assets/main/63470f7e-978f-4986-b04f-c9d81284ec49)
+![image](https://github.com/user-attachments/assets/0adadcc6-926b-4770-b1b6-d8809fd92736)
 
 ### Login Page
-![Login Page](https://raw.githubusercontent.com/user-attachments/assets/main/ed8b4dd7-a81c-49b1-a579-ccb93843d3ab)
+![image](https://github.com/user-attachments/assets/29d8e86b-7ea1-45d9-840c-af8c8c0fc7bc)
 
 ### Profile Page
-![Profile Page](https://raw.githubusercontent.com/user-attachments/assets/main/8d79de0a-68a4-4be4-b412-d875385e23e5)
+![image](https://github.com/user-attachments/assets/727429be-ab78-42b3-b083-5e794e8d8dea)
 
 ### Edit Page
-![Edit Page](https://raw.githubusercontent.com/user-attachments/assets/main/2eae73c0-d101-4ac8-a16d-f963eb7e55f2)
+![image](https://github.com/user-attachments/assets/7e9d7573-32f2-4a0b-ae79-e1760d232373)
+
 
 <h2>Installation</h2>
 <ol>
