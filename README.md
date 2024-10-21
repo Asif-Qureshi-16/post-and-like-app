@@ -1,8 +1,8 @@
-#Express Blog Application
+<h1>Express Blog Application</h1>
 
 This is a simple blog application built with Express.js, featuring user registration, login, and post management. Users can create, edit, and like posts. The application uses JWT for authentication and MongoDB for data storage.
 
-##Features
+<h3>Features</h3>
 <ul>
         <li><strong>User Registration and Login</strong>
             <ul>
@@ -37,23 +37,47 @@ This is a simple blog application built with Express.js, featuring user registra
         </li>
     </ul>
 
-##Technologies Used
-Node.js
-Express.js
-MongoDB
-EJS (Embedded JavaScript) for templating
-Bcrypt for password hashing
-JWT for token-based authentication
+<h3>Technologies Used</h3>
+<ul>
+        <li><strong>Node.js</strong> - JavaScript runtime for server-side development</li>
+        <li><strong>Express.js</strong> - Web framework for building APIs and web applications</li>
+        <li><strong>MongoDB</strong> - NoSQL database for data storage</li>
+        <li><strong>EJS (Embedded JavaScript)</strong> - Templating engine for rendering HTML views</li>
+        <li><strong>Bcrypt</strong> - Library for hashing passwords securely</li>
+        <li><strong>JWT (JSON Web Token)</strong> - For token-based authentication</li>
+    </ul>
 
 
-#Registration Page:
+
+<h3>Registration Page:</h3>
 ![image](https://github.com/user-attachments/assets/c2d425fa-56cd-4e75-bff8-af7477dcb542)
 
-#Login Page:
+<h3>Login Page:</h3>
 ![image](https://github.com/user-attachments/assets/c30c60b8-fe7a-44d3-a088-60d186f6187c)
 
-#Profile Page:
+<h3>Profile Page:</h3>
 ![image](https://github.com/user-attachments/assets/dc669761-68e8-4ffe-95dd-44472b0758e9)
 
-#Edit Page:
+<h3>Edit Page:</h3>
 ![image](https://github.com/user-attachments/assets/767184ce-07e3-4fca-8426-af40414730bf)
+
+<h2>Installation</h2>
+<ol>
+    <li>Clone the repository:</li>
+    <pre><code>git clone https://github.com/USERNAME/express-blog-app.git</code></pre>
+    <li>Navigate into the project directory:</li>
+    <pre><code>cd express-blog-app</code></pre>
+    <li>Install dependencies:</li>
+    <pre><code>npm install</code></pre>
+    <li>Create a <code>.env</code> file for environment variables (like your JWT secret).</li>
+    <li>Start the server:</li>
+    <pre><code>npm start</code></pre>
+    <li>Open your browser and go to <code>http://localhost:3000</code>.</li>
+</ol>
+
+## Usage
+- Visit the home page to register or log in.
+- After logging in, you can create new posts, edit existing posts, and manage likes.
+
+## Contributing
+Feel free to fork the repository and submit pull requests. If you find any issues, please report them.
